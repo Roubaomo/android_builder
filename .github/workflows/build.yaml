@@ -27,6 +27,6 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v2
         with:
-          name: my-build-apk
-          path: ./**/*.apk
+          name: Bryan-TVBox-apk
+          path: 2022/06/27/1300.apk
 
